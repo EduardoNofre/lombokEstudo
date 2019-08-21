@@ -8,6 +8,9 @@ Isso é tão comum que os desenvolvedores do Lombok se preocuparam em simplific�
  */
 @Slf4j
 public class Slf4jComLombok {
+	
+	
+    // Existem outras anotações para log falta testar @Log e @CommonsLog
 
     public  void logTeste(){
         log.info("teste");
